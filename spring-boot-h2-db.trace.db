@@ -1,0 +1,8 @@
+2023-09-23 21:42:04 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "[*]ENTRY_PRICE NAME ENTRY_PRICE"; se esperaba "EXPLAIN, EXECUTE"
+Syntax error in SQL statement "[*]ENTRY_PRICE NAME ENTRY_PRICE"; expected "EXPLAIN, EXECUTE"; SQL statement:
+ENTRY_PRICE NAME ENTRY_PRICE [42001-214]
+2023-09-23 21:42:06 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "[*]ENTRY_PRICE NAME ENTRY_PRICE CINEMA"; se esperaba "EXPLAIN, EXECUTE"
+Syntax error in SQL statement "[*]ENTRY_PRICE NAME ENTRY_PRICE CINEMA"; expected "EXPLAIN, EXECUTE"; SQL statement:
+ENTRY_PRICE NAME ENTRY_PRICE CINEMA [42001-214]
